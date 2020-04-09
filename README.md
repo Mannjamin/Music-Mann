@@ -34,4 +34,4 @@ node init.js
 ```
 
 ## License
-I am a strong believer of providing code AS IS, and allowing morons such as you and I the ability to mess around, explore and understand code to better ourselves. This project is therefore licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+I am a strong believer of providing code AS IS, and allowing morons such as you and I the ability to mess around, explore and understand code to better ourselves. This project is therefore licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details. I am obligated to inform you that chunks of this project are code taken from other MIT Licensed projects online which have helped me to understand and reproduce this project on my own. For that I give thanks to them.
