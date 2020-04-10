@@ -4,6 +4,8 @@ A Discord Bot in Discord JS
 
 ## Requirements
 
+- [Discord Bot](https://discordapp.com/developers/applications)
+  - [A useful DiscordPy guide for making your first bot](https://discordpy.readthedocs.io/en/latest/discord.html)
 - [Node](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
 - [FFMPEG](https://www.ffmpeg.org/)
