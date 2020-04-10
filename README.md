@@ -30,6 +30,9 @@ choco install ffmpeg
 
 ### Initialisation
 ```bash
+# Configure the config.json
+
+# Execute the init.js
 node init.js
 ```
 
